@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of a letter printed at New-Castle, July the 6, 1647. Sent from the adjutators of the army under His Excellency Sir Thomas Fairfax, unto their fellow-souldiers in the garrisons of New-Castle and Tinmouth. Advising them 1. That they will not suffer themselves to be broken in pieces by any discouragements, but performe the trust reposed in them in those places of strength and confidence wherein they are. 2. That they will not upon any pretended order whatsoever, betray their trust, or deliver up their garrison into the hands of any, untill they shall receive commands from the generall, whose warrant only is able to beare them out in it. 3. That they would endeavour to hold correspondence with them, by appointing some faithfull men, who may at all times acquaint them with their condition. With divers other matters of remarkable consequence.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80468</idno>
+            <idno type="STC">Wing C6133</idno>
+            <idno type="STC">Thomason E398_16</idno>
+            <idno type="STC">ESTC R201692</idno>
+            <idno type="EEBO-CITATION">99862191</idno>
+            <idno type="PROQUEST">99862191</idno>
+            <idno type="VID">114342</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80468)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114342)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E398[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of a letter printed at New-Castle, July the 6, 1647. Sent from the adjutators of the army under His Excellency Sir Thomas Fairfax, unto their fellow-souldiers in the garrisons of New-Castle and Tinmouth. Advising them 1. That they will not suffer themselves to be broken in pieces by any discouragements, but performe the trust reposed in them in those places of strength and confidence wherein they are. 2. That they will not upon any pretended order whatsoever, betray their trust, or deliver up their garrison into the hands of any, untill they shall receive commands from the generall, whose warrant only is able to beare them out in it. 3. That they would endeavour to hold correspondence with them, by appointing some faithfull men, who may at all times acquaint them with their condition. With divers other matters of remarkable consequence.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Vere at the upper end of the Old-Bailey.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 15".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Newcastle upon Tyne (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114342:1" rendition="simple:additions"/>
+            <p>The Copy of a LETTER Printed at <hi>New-Castle,</hi> July the 6, 1647.</p>
+            <p>SENT From the Adjutators of the Army under His Excellence Sir <hi>Thomas Fairfax,</hi> unto their Fellow-Souldiers in the Gar<g ref="char:EOLhyphen"/>riſons of <hi>New-Caſtle</hi> and <hi>Tinmouth.</hi>
+            </p>
+            <p>Adviſing them
+<list>
+                  <item>1. <hi>That they will not ſuffer themſelves to be broken in pieces by any diſcouragements, but performe the Truſt repoſed in them in thoſe places of Strength and Confidence wherein they are.</hi>
+                  </item>
+                  <item>2. <hi>That they will not upon any pretended Order whatſoever, betray their Trust, or deliver up their Garriſon into the hands of any, untill they ſhall receive commands from the Generall, whoſe Warrant only is able to beare them out in it.</hi>
+                  </item>
+                  <item>3. <hi>That they would endeavour to hold correſpondence with them, by appointing ſome faithfull men, who may at all times acquaint them with their condition.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>With divers other matters of remarkable conſequence.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho. Vere</hi> at the upper end of the Old-Bailey.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114342:2"/>
+            <pb n="1" facs="tcp:114342:2"/>
+            <head>A Letter from the Adjutators of the Army under his Excellence Sir <hi>Tho. Fairfax,</hi> &amp;c.</head>
+            <opener>
+               <salute>Gentlemen and Fellow-Souldiers,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou being Members of the ſame bo<g ref="char:EOLhyphen"/>dy with us, it cannot be ſuppoſed that we ſhould bee altogether in<g ref="char:EOLhyphen"/>ſenſible of your ſad ſufferings, and preſſing grievances, or diſtruſtfull of your Fidelity and conſtant Reſolutions, to ſtick unanimouſly to us in purſuance of our juſt and lawfull deſignes, tending to our and your timely reliefe, and the peace and welfare of the Kingdome: We are not ignorant of the temp<g ref="char:EOLhyphen"/>tations whereunto you are lyable, having ſo many diſcouragements, by reaſon of your want of pay, and diſtance from us, as alſo the miſ<g ref="char:EOLhyphen"/>repreſentation of us and our proceedings,
+<pb n="2" facs="tcp:114342:3"/>whereby you may be in danger either to leave your ſtation, and ſeeke redreſſe elſe-where, or to deſert us and our juſt Cauſe through miſ<g ref="char:EOLhyphen"/>information; we have therefore thought ſit to preſent our ſelves to you, thus: <hi>Viz.</hi> Wee feeing our ſelves and the whole Kingdome laid open to oppreſſion and injury, through the ma<g ref="char:EOLhyphen"/>lice and wicked contrivances of unjuſt men, have been neceſſitated to put on man-like Reſo<g ref="char:EOLhyphen"/>lutions, and accordingly to act for our lives, and the lives of our fellow Souldiers, who have faithfully ſerved the State, which were wickedly ſold into the jawes of Tyranny, and unheard of Cruelty, to ſatisfie the unlimited luſts of per<g ref="char:EOLhyphen"/>verſe men, and finding no other remedy left us but with our ſwords in our hands to proſecute the enemies of our peace, and endeavour to bring them to condigne puniſhment; Wee have ſolemnly engaged our ſelves not to disband untill we have obtained ſome ſecurity of our lives and juſt Liberties, and ſetled this diſtracted Nation in peace and quiet.</p>
+            <p>But leſt our intentions ſhould be preſented to you in a falſe Glaſſe, we have thought good to let you ſee the inſide of our undertakings, and the ſincere intentions of our hearts in our preſent proceedings: It is not our own In<g ref="char:EOLhyphen"/>tereſts, or ſetting up of our owne advantages, or the feeding of our owne Luſts that is in our Eye or Ayme; but it is the Glory of GOD, the juſt preſervation and ſafetie of
+<pb n="3" facs="tcp:114342:3"/>the Kings perſon, the juſt Priviledges of Parliament, the redeeming of the Lives and Liberties of the free People of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> from Tyrannie, Oppreſſion, and In<g ref="char:EOLhyphen"/>juſtice, the maintenance of juſt Lawes, and the neceſſarie ſupport and defence of this Kingdome, together with the free and impar<g ref="char:EOLhyphen"/>tiall diſtribution of Juſtice to all, which wee have made our Ayme; and when theſe our Ends ſhall be obtained, and Meanes (for the continuance thereof eſtabliſhed, wee ſhall ac<g ref="char:EOLhyphen"/>quieſſe and be readie either to lay downe Armes, or otherwiſe to be imployed for the Service of the Common-wealth. And that you may be not onely willing (as wee beleeve you are) but alſo able to proſecute effectually the ſame things with us, we ſhall offer this ad<g ref="char:EOLhyphen"/>vice to you.</p>
+            <p>
+               <label>I.</label> That you will not ſuffer your ſelves to be broken in pieces by any diſcouragements, but unite your ſelves in Love, and ſtreng<g ref="char:EOLhyphen"/>then one another in Reſolution, to keepe your ſtanding, and per<g ref="char:EOLhyphen"/>forme the truſt repoſed in you,
+<pb n="4" facs="tcp:114342:4"/>in that place of Strength and Conſequence wherein you are.</p>
+            <p>
+               <label>II.</label> That you would not (upon any pretended Order whatſo<g ref="char:EOLhyphen"/>ever) betray your truſt, or deli<g ref="char:EOLhyphen"/>ver up your Garriſon into the hands of any, untill you ſhall re<g ref="char:EOLhyphen"/>ceive Commands from our Ge<g ref="char:EOLhyphen"/>nerall, whoſe Warrant onely is able to beare you out in it.</p>
+            <p>
+               <label>III.</label> That you would endeavour to hold Correſpondence with us, by appointing ſome faithfull men, who may at all times ac<g ref="char:EOLhyphen"/>quaint us with your Condition, and receive ſuch Information from us, as may concerne you.</p>
+            <pb n="5" facs="tcp:114342:4"/>
+            <p>And be you aſſured, that wee ſhall at all times faithfully ſtand by you, in all juſt and lawfull proceedings, and make all your ſufferings our owne, and endea<g ref="char:EOLhyphen"/>vour to the utmoſt of our abili<g ref="char:EOLhyphen"/>ties to manifeſt our ſelves the earneſt ſeekers of your, our own, and the Kingdomes welfare, ſubſcribing our ſelves</p>
+            <closer>
+               <dateline>
+                  <hi>Vxbridge,</hi> 
+                  <date>25. <hi>Iune,</hi> 1647.</date>
+               </dateline>
+               <signed>Yours, and the Kingdomes faithfull friends and ſervants, choſen to Agitate in behalfe of the Army.
+<list>
+                     <item>
+                        <hi>Iames Berry</hi> Captaines.</item>
+                     <item>
+                        <hi>Iohn Clerke</hi> Captaines.</item>
+                     <item>
+                        <hi>Edmund Rolph</hi> Captaines.</item>
+                     <item>
+                        <hi>Henry Prittie</hi> Captaines.</item>
+                     <item>
+                        <hi>Waldine Lagee</hi> Captaines.</item>
+                     <item>
+                        <hi>Ed. Sexdy</hi> Generals Regiment.</item>
+                     <item>
+                        <hi>Iohn Tayler</hi> Generals Regiment.</item>
+                     <item>
+                        <hi>William Allin</hi> Lieut. Gen.</item>
+                     <item>
+                        <hi>Iam. Tirtorington</hi> Lieut. Gen.</item>
+                     <pb n="6" facs="tcp:114342:5"/>
+                     <item>
+                        <hi>Iohn Braman</hi> Col. <hi>Rich.</hi>
+                     </item>
+                     <item>
+                        <hi>Anthony Wickſon</hi> Col. <hi>Rich.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Shippard</hi> Col. <hi>Rich.</hi>
+                     </item>
+                     <item>
+                        <hi>Philip Eyton</hi> Colonel <hi>VVhaley</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Young</hi> Colonel <hi>VVhaley</hi>
+                     </item>
+                     <item>
+                        <hi>Barth. Willock</hi> Col. <hi>Thomlinſons</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Clarke</hi> Col. <hi>Thomlinſons</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Willoughby</hi> Col. <hi>Hortons</hi>
+                     </item>
+                     <item>
+                        <hi>Tobias Boxe</hi> Col. <hi>Hortons</hi>
+                     </item>
+                     <item>
+                        <hi>Nat. Foxgill</hi> Col. <hi>Hamonds</hi> Regi<g ref="char:EOLhyphen"/>ment.</item>
+                     <item>
+                        <hi>Will. Bridgman</hi> Col. <hi>Hamonds</hi> Regi<g ref="char:EOLhyphen"/>ment.</item>
+                     <item>
+                        <hi>Rob. Maſon</hi> Colonel <hi>VValler.</hi>
+                     </item>
+                     <item>
+                        <hi>Hen. Anderton</hi> Colonel <hi>VValler.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>Haſte at preſent prevents us of giving a m<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> large and full accompt of our proceedings, <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ving formerly ſent both Letters and Meſ<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> to you, which we hope are come to your hands and ſhall by the next oportunitie informe you further.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
